@@ -1,1 +1,1 @@
-# MeshAFN: a Self-supervised attention-based fourier network for mesh generation
+# MeshAFN: an efficient attention-based fourier network for self-supervised mesh generation
